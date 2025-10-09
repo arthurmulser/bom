@@ -1,0 +1,2 @@
+# bom
+bitcoin offline minemonic
