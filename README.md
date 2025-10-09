@@ -1,5 +1,5 @@
+
 # bom
-<<<<<<< HEAD
 
 bitcoin offline minemonic.
 
@@ -8,11 +8,17 @@ bitcoin offline minemonic.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
+
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
+
 samples, guidance on mobile development, and a full API reference.
+
+// https://docs.flutter.dev/;
+
 =======
-bitcoin offline minemonic
->>>>>>> 97ee34f99e7ae65bc2a263d421bac6f7dc042de0
+
+20251009 - created with: flutter create --org br.com.vedvoyager --platforms android,ios bom;
